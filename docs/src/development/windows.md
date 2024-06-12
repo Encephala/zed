@@ -1,6 +1,9 @@
 # Building Zed for Windows
 
 > [!NOTE]
+> When installing on WSL, follow the instructions in [Linux](linux.md)
+
+> [!NOTE]
 > The following commands may be executed in any shell.
 
 ## Repository
